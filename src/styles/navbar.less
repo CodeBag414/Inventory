@@ -1,0 +1,40 @@
+// =============================================================================
+// Navigation Bar
+// =============================================================================
+
+@import "../../node_modules/bootstrap/less/navbar.less";
+
+html {
+  padding-top: @navbar-height;
+}
+
+.navbar-top {
+  &:extend(.navbar-fixed-top);
+  height: 100px;
+  background: linear-gradient(to bottom, #77b55a 5%, #72b352 100%);
+  background-color: #77b55a;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#77b55a', endColorstr='#72b352', GradientType=0);
+  box-shadow: 0 10px 14px -7px #3e7327;
+}
+
+.navbar-brand {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #00d8ff !important;
+  font-size: 24px;
+}
+
+//
+// Navigation Footer
+// -----------------------------------------------------------------------------
+
+.navbar-footer {
+  &:extend(.navbar);
+  &:extend(.navbar-fixed-bottom);
+
+  background-color: darken(@body-bg, 2%);
+
+  .text-muted {
+    margin-top: 1em;
+  }
+}

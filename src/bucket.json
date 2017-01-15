@@ -1,0 +1,314 @@
+﻿{
+  "tlipi": {
+    "title": "The Leadership Institute Personal Inventory",
+
+     "role": [
+        "title": "Ministry Role",
+        "header": "Choose Ministry Role",
+        "id": "choose-role",
+        "items": [
+          {
+            "item": "Catechist"
+          },
+          {
+            "item": "Youth Ministry Volunteer"
+          },
+          {
+            "item": "Youth Ministry Coordinator"
+          },
+          {
+            "item": "DRE/CRE"
+          },
+          {
+            "item": "Special Minister of Holy Communion"
+          },
+          {
+            "item": "Lector"
+          },
+          {
+            "item": "Musician"
+          },
+          {
+            "item": "I’m not volunteering and just want to learn more"
+          }
+        ]
+      ],
+      "theological-knowledge": [
+        "title": "Theological Knowledge",
+        "header":  "Theological Knowledge",
+        "knowledge": [
+          {
+            "title": "1",
+            "header": "Please tell us about your knowledge of Sacred Scriptures.",
+            "items": [
+              {
+                "item": "I know what the Scriptures are but I have only heard the terms “Inspiration” and “Revelation."
+              },
+              {
+                "item": "I have a general understanding of Catholic Scripture, Inspiration, and Revelation but would have a hard time explaining this material to someone else."
+              },
+              {
+                "item": "I am confident in my ability to teach the Catholic understanding of Scripture, Inspiration, and Revelation to others."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "header":  "Speaking of Scripture, please tell us about your understanding with the Old Testament.",
+            "items": [
+              {
+                "item": "My exposure to the OT is watching “The Ten Commandments” and listening to the first reading at Mass."
+              },
+              {
+                "item": "When I hear the first reading on Sunday, I know where to find that book in the OT and have a general understanding of its subject matter."
+              },
+              {
+                "item": "Given the opportunity, I could identify specific themes and figures from the OT and speak of the influence each has on our salvation history."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "header": "Now tell us about your knowledge of the New Testament.",
+            "items": [
+              {
+                "item": "Everything I learned about the New Testament comes from Sunday Mass and thereligion classes I have taken."
+              },
+              {
+                "item": "I understand my own role as a disciple of Christ and an evangelist in today’s world and can point to specific texts in the NT that inspire me."
+              },
+              {
+                "item": "I understand my own role as a disciple of Christ and an evangelist in today’s world and can point to specific texts in the NT that inspire me."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "header": "Moving on to the Creed, please choose the phrase that best describes your understanding and experience of the Trinity",
+            "items": [
+              {
+                "item": "Three in One"
+              },
+              {
+                "item": "Tripersonal God"
+              },
+              {
+                "item": "Perichoresis"
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "header": "Please tell us about your knowledge and experience of the Church’s theology and mission.",
+            "items": [
+              {
+                "item": "I know that the Church is more than the building where I attend Mass but could not explain its structure or relationships."
+              },
+              {
+                "item": "I know that the Church is more than the building where I attend Mass but could not explain its structure or relationships."
+              },
+              {
+                "item": "I know that the  Church is one, holy, catholic, and apostolic and am confident in my ability to explain what this means."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "header": "Now tell us about your understanding of the meaning and practices of the Sacraments.",
+            "items": [
+              {
+                "item": "I have heard that worship is integral to our lives as Christians but I could not communicate much to others about the Liturgical Year or the connection of the Creed to the Sacramental life of the Church."
+              },
+              {
+                "item": "I understand how our faith is celebrated differently at different times of the year and can communicate that to others."
+              },
+              {
+                "item": "I understand how our faith is celebrated differently at different times of the year and can communicate that to others."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "header": "Getting more specific, tell us about your knowledge of the Seven Sacraments.",
+            "items": [
+              {
+                "item": "I can name the seven Sacraments and have received some of them, but that’s the extent of my experience and understanding."
+              },
+              {
+                "item": "I know how the seven Sacraments are categorized and would like to learn more about each of them."
+              },
+              {
+                "item": "I know how to explain the seven Sacraments and I actively participate in the sacramental life of the church and doing so allows me to love in a different way."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "8",
+            "header": "Foundations and principles of morality are kind of a big deal in the Catholic Church. Tell us about how your understanding of our moral tradition influences your daily life.",
+            "items": [
+              {
+                "item": "My moral decision making process is rooted in where I want to spend eternity."
+              },
+              {
+                "item": "My personal relationship with Jesus has an impact on how I make moral decisions."
+              },
+              {
+                "item": "I am able to articulate the principles on which I rely when making moral decisions."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "9",
+            "header": "Our moral teachings are rooted in Scripture. They include the Ten Commandments and the Beatitudes, among other things. Tell us what you know.",
+            "items": [
+              {
+                "item": "I can recite the Ten Commandments and the Beatitudes."
+              },
+              {
+                "item": "I can explain the Ten Commandments and the implications of the Beatitudes on my daily life."
+              },
+              {
+                "item": "I am confident in my ability to explain the relationship between the Beatitudes and the Ten Commandments in light of contemporary controversial topics."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "10",
+            "header": "Catholic Social Teaching has been called the best kept secret in the Catholic Church. How much do you know about this secret?",
+            "items": [
+              {
+                "item": "I have heard of Catholic Social Teaching and know that our faith challenges me to build a just society for all."
+              },
+              {
+                "item": "Solidarity, subsidiarity, and preferential option for the poor are all words with which I am familiar and use in my conversations about justice."
+              },
+              {
+                "item": "I know and can explain the seven principles of Catholic Social Teaching."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "11",
+            "header": "The study of church history tells us how major events in the last 2000 years have shaped our community of faith. Tell us what you know about church history.",
+            "items": [
+              {
+                "item": "The last time I studied church history was in elementary or high school."
+              },
+              {
+                "item": "I have a general knowledge of church history, Christological heresies, and church structure and could answer basic questions from my friends and family. "
+              },
+              {
+                "item": "I can demonstrate how our faith has developed over time and how the church in the modern world has responded to changing needs."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "12",
+            "header": "Prayer is how we connect on a daily basis with God. Tell us about your own prayer experience. ",
+            "items": [
+              {
+                "item": "My prayer experience and methodology has not really changed since childhood."
+              },
+              {
+                "item": "I am familiar with the types of prayer and how to pray with Scripture and would like to learn some specifics that would help me persevere in my own prayer."
+              },
+              {
+                "item": "I am practically a mystic when it comes to prayer and am interested in learning more about other schools of prayer."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "13",
+            "header": "The prayer Jesus taught his followers is the Lord’s Prayer. Getting back to basics, riddle us this:",
+            "items": [
+              {
+                "item": "I can recite the Lord’s Prayer like a faithful Catholic but I seldom stop to think what it means or where it came from."
+              },
+              {
+                "item": "Praying the Lord’s Prayer has a meaningful impact on my daily life."
+              },
+              {
+                "item": "Praying the Lord’s Prayer is a way of seeing God, the world and myself in a way that is both profound and revolutionary."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "14",
+            "header": "Developing a person, intimate relationship with Jesus Christ is essential to a healthy Christian life. What do you think?",
+            "items": [
+              {
+                "item": "Having a personal relationship with Christ has always sounded so foreign to me. I’m not sure what it means."
+              },
+              {
+                "item": "I know what it means to have a personal relationship with Jesus and I want to learn about how I can strengthen that relationship."
+              },
+              {
+                "item": "I consider Jesus a close personal friend and that impacts every moment of my day."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          },
+          {
+            "title": "15",
+            "header": "Evangelization is everyone’s responsibility, even if you are not sure what it means. So tell us…",
+            "items": [
+              {
+                "item": "I have heard the term evangelization but never really thought about what it means or its impact on my life."
+              },
+              {
+                "item": "I know what it means to evangelize and am confident I understand its impact on my life."
+              },
+              {
+                "item": "My friends always come to me with questions about being Catholic because they know I have studies my faith and am willing to share my faith with others."
+              },
+              {
+                "item": "None of these choices apply to me."
+              }
+            ]
+          }
+        ]
+      ]
+    
+  }
+}

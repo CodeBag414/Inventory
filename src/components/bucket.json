@@ -1,0 +1,1016 @@
+﻿{
+  "tlipi": {
+    "title": "The Leadership Institute Personal Inventory",
+    "parish_list": {
+      "title": "Parish List",
+      "header": "Parish List",
+      "items": [
+        {
+          "item": "Saint Ladislaus Parish"
+        },
+        {
+          "item": "Our Lady of Fatima Parish"
+        },
+        {
+          "item": "Saint Gregory the Great Parish"
+        },
+        {
+          "item": "Saint Anthony of Padua Parish"
+        },
+        {
+          "item": "Saint Margaret Mary Alacoque Parish"
+        },
+        {
+          "item": "Saint Jerome Parish"
+        },
+        {
+          "item": "Saint Philip Parish"
+        },
+        {
+          "item": "Saint Mary Parish"
+        },
+        {
+          "item": "Christ the King Parish"
+        },
+        {
+          "item": "Saint Patrick Parish"
+        },
+        {
+          "item": "Saint Mary Parish"
+        },
+        {
+          "item": "Our Lady of the Assumption Parish"
+        },
+        {
+          "item": "Saint Edward the Confessor Parish"
+        },
+        {
+          "item": "Saint Marguerite Bourgeoys Parish"
+        },
+        {
+          "item": "Saint Catherine of Siena Parish"
+        },
+        {
+          "item": "The Basilica of Saint John the Evangelist"
+        },
+        {
+          "item": "Saint Emery Parish"
+        },
+        {
+          "item": "Saint Joseph Parish"
+        },
+        {
+          "item": "Saint Francis of Assisi Parish"
+        },
+        {
+          "item": "Saint Mary Parish/Saint Benedict-Our Lady of Montserrat"
+        },
+        {
+          "item": "Saint Theresa Parish"
+        },
+        {
+          "item": "Holy Trinity Parish"
+        },
+        {
+          "item": "Saint Joseph Parish"
+        },
+        {
+          "item": "Saint Charles Borromeo Parish"
+        },
+        {
+          "item": "Saint Leo Parish"
+        },
+        {
+          "item": "Holy Family Parish"
+        },
+        {
+          "item": "Saint John Parish"
+        },
+        {
+          "item": "Holy Name of Jesus Parish"
+        },
+        {
+          "item": "Saint Michael the Archangel Parish"
+        },
+        {
+          "item": "Saint Lawrence Parish"
+        },
+        {
+          "item": "Saint Pius X Parish"
+        },
+        {
+          "item": "Saint Mary Parish"
+        },
+        {
+          "item": "Saint Mary Parish"
+        },
+        {
+          "item": "Saint Ann Parish"
+        },
+        {
+          "item": "Saint James Parish"
+        },
+        {
+          "item": "Notre Dame Parish"
+        },
+        {
+          "item": "Saint Catherine of Siena Parish"
+        },
+        {
+          "item": "Saint Thomas Aquinas Parish"
+        },
+        {
+          "item": "Holy Name of Jesus Parish"
+        },
+        {
+          "item": "Saint Bridget of Ireland Parish"
+        },
+        {
+          "item": "Saint Agnes Parish"
+        },
+        {
+          "item": "Saint Peter Parish"
+        },
+        {
+          "item": "Saint Roch Parish"
+        },
+        {
+          "item": "Saint Thomas More Parish"
+        },
+        {
+          "item": "Our Lady of Fatima Parish"
+        },
+        {
+          "item": "Saint Michael the Archangel Parish"
+        },
+        {
+          "item": "Saint Joseph Parish"
+        },
+        {
+          "item": "Saint Matthew Parish"
+        },
+        {
+          "item": "Our Lady of Peace Parish"
+        },
+        {
+          "item": "Holy Cross Parish"
+        },
+        {
+          "item": "SS. Cyril and Methodius Parish"
+        },
+        {
+          "item": "Our Lady of Guadalupe Parish"
+        },
+        {
+          "item": "Saint Mary Parish"
+        },
+        {
+          "item": "Sacred Heart Parish"
+        },
+        {
+          "item": "Saint Cecilia Parish"
+        },
+        {
+          "item": "Saint Elizabeth Seton Parish"
+        },
+        {
+          "item": "Saint Gabriel Parish"
+        },
+        {
+          "item": "Saint Maurice Parish"
+        },
+        {
+          "item": "The Cathedral Parish (Saint Patrick and Saint Augustine Cathedral)"
+        },
+        {
+          "item": "Saint Clement of Rome Parish"
+        },
+        {
+          "item": "Holy Spirit Parish"
+        },
+        {
+          "item": "Our Lady of Grace Parish"
+        },
+        {
+          "item": "Saint Stephen Parish"
+        },
+        {
+          "item": "Saint Aloysius Parish"
+        },
+        {
+          "item": "Saint Joseph Parish"
+        },
+        {
+          "item": "Sacred Heart Parish"
+        },
+        {
+          "item": "Our Lady Star of the Sea Parish"
+        },
+        {
+          "item": "Saint Mark Parish"
+        },
+        {
+          "item": "Saint Thomas the Apostle Parish"
+        },
+        {
+          "item": "Saint Andrew Parish"
+        },
+        {
+          "item": "Saint Paul Parish"
+        },
+        {
+          "item": "Church of the Assumption Parish"
+        },
+        {
+          "item": "Saint Mary Parish"
+        },
+        {
+          "item": "Sacred Heart Parish"
+        },
+        {
+          "item": "Saint Luke Parish"
+        },
+        {
+          "item": "Saint Rose of Lima Parish"
+        },
+        {
+          "item": "Saint Jude Parish"
+        }
+      ]
+    },
+    "role": {
+      "title": "Ministry Role",
+      "header": "Choose Ministry Role",
+      "id": "choose-role",
+      "items": [
+        {
+          "item": "Catechist"
+        },
+        {
+          "item": "Youth Ministry Volunteer"
+        },
+        {
+          "item": "Youth Ministry Coordinator"
+        },
+        {
+          "item": "DRE/CRE"
+        },
+        {
+          "item": "Special Minister of Holy Communion"
+        },
+        {
+          "item": "Lector"
+        },
+        {
+          "item": "Musician"
+        },
+        {
+          "item": "I’m not volunteering and just want to learn more"
+        }
+      ]
+    },
+    "theological_knowledge": {
+      "title": "Theological Knowledge",
+      "header": "Theological Knowledge",
+      "knowledge": [
+        {
+          "title": "1",
+          "header": "Please tell us about your knowledge of Sacred Scriptures.",
+          "items": [
+            {
+              "item": "I know what the Scriptures are but I have only heard the terms “Inspiration” and “Revelation."
+            },
+            {
+              "item": "I have a general understanding of Catholic Scripture, Inspiration, and Revelation but would have a hard time explaining this material to someone else."
+            },
+            {
+              "item": "I am confident in my ability to teach the Catholic understanding of Scripture, Inspiration, and Revelation to others."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "2",
+          "header": "Speaking of Scripture, please tell us about your understanding with the Old Testament.",
+          "items": [
+            {
+              "item": "My exposure to the OT is watching “The Ten Commandments” and listening to the first reading at Mass."
+            },
+            {
+              "item": "When I hear the first reading on Sunday, I know where to find that book in the OT and have a general understanding of its subject matter."
+            },
+            {
+              "item": "Given the opportunity, I could identify specific themes and figures from the OT and speak of the influence each has on our salvation history."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "3",
+          "header": "Now tell us about your knowledge of the New Testament.",
+          "items": [
+            {
+              "item": "Everything I learned about the New Testament comes from Sunday Mass and thereligion classes I have taken."
+            },
+            {
+              "item": "I understand my own role as a disciple of Christ and an evangelist in today’s world and can point to specific texts in the NT that inspire me."
+            },
+            {
+              "item": "I can identify the books, writing styles, early Christian communities, and central message of the NT."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "4",
+          "header": "Moving on to the Creed, please choose the phrase that best describes your understanding and experience of the Trinity",
+          "items": [
+            {
+              "item": "Three in One"
+            },
+            {
+              "item": "Tripersonal God"
+            },
+            {
+              "item": "Perichoresis"
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "5",
+          "header": "Please tell us about your knowledge and experience of the Church’s theology and mission.",
+          "items": [
+            {
+              "item": "I know that the Church is more than the building where I attend Mass but could not explain its structure or relationships."
+            },
+            {
+              "item": "I understand the structure of the Church, the role Mary plays, and what it means to say “the communion of saints."
+            },
+            {
+              "item": "I know that the  Church is one, holy, catholic, and apostolic and am confident in my ability to explain what this means."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "6",
+          "header": "Now tell us about your understanding of the meaning and practices of the Sacraments.",
+          "items": [
+            {
+              "item": "I have heard that worship is integral to our lives as Christians but I could not communicate much to others about the Liturgical Year or the connection of the Creed to the Sacramental life of the Church."
+            },
+            {
+              "item": "I understand how our faith is celebrated differently at different times of the year and can communicate that to others."
+            },
+            {
+              "item": "Liturgical seasons are more than changing colors. I am confident in my ability to help others understand that when we engage in the prayer and ritual of the Church, we are formed as Church."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "7",
+          "header": "Getting more specific, tell us about your knowledge of the Seven Sacraments.",
+          "items": [
+            {
+              "item": "I can name the seven Sacraments and have received some of them, but that’s the extent of my experience and understanding."
+            },
+            {
+              "item": "I know how the seven Sacraments are categorized and would like to learn more about each of them."
+            },
+            {
+              "item": "I know how to explain the seven Sacraments and I actively participate in the sacramental life of the church and doing so allows me to love in a different way."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "8",
+          "header": "Foundations and principles of morality are kind of a big deal in the Catholic Church. Tell us about how your understanding of our moral tradition influences your daily life.",
+          "items": [
+            {
+              "item": "My moral decision making process is rooted in where I want to spend eternity."
+            },
+            {
+              "item": "My personal relationship with Jesus has an impact on how I make moral decisions."
+            },
+            {
+              "item": "I am able to articulate the principles on which I rely when making moral decisions."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "9",
+          "header": "Our moral teachings are rooted in Scripture. They include the Ten Commandments and the Beatitudes, among other things. Tell us what you know.",
+          "items": [
+            {
+              "item": "I can recite the Ten Commandments and the Beatitudes."
+            },
+            {
+              "item": "I can explain the Ten Commandments and the implications of the Beatitudes on my daily life."
+            },
+            {
+              "item": "I am confident in my ability to explain the relationship between the Beatitudes and the Ten Commandments in light of contemporary controversial topics."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "10",
+          "header": "Catholic Social Teaching has been called the best kept secret in the Catholic Church. How much do you know about this secret?",
+          "items": [
+            {
+              "item": "I have heard of Catholic Social Teaching and know that our faith challenges me to build a just society for all."
+            },
+            {
+              "item": "Solidarity, subsidiarity, and preferential option for the poor are all words with which I am familiar and use in my conversations about justice."
+            },
+            {
+              "item": "I know and can explain the seven principles of Catholic Social Teaching."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "11",
+          "header": "The study of church history tells us how major events in the last 2000 years have shaped our community of faith. Tell us what you know about church history.",
+          "items": [
+            {
+              "item": "The last time I studied church history was in elementary or high school."
+            },
+            {
+              "item": "I have a general knowledge of church history, Christological heresies, and church structure and could answer basic questions from my friends and family. "
+            },
+            {
+              "item": "I can demonstrate how our faith has developed over time and how the church in the modern world has responded to changing needs."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "12",
+          "header": "Prayer is how we connect on a daily basis with God. Tell us about your own prayer experience. ",
+          "items": [
+            {
+              "item": "My prayer experience and methodology has not really changed since childhood."
+            },
+            {
+              "item": "I am familiar with the types of prayer and how to pray with Scripture and would like to learn some specifics that would help me persevere in my own prayer."
+            },
+            {
+              "item": "I am practically a mystic when it comes to prayer and am interested in learning more about other schools of prayer."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "13",
+          "header": "The prayer Jesus taught his followers is the Lord’s Prayer. Getting back to basics, riddle us this:",
+          "items": [
+            {
+              "item": "I can recite the Lord’s Prayer like a faithful Catholic but I seldom stop to think what it means or where it came from."
+            },
+            {
+              "item": "Praying the Lord’s Prayer has a meaningful impact on my daily life."
+            },
+            {
+              "item": "Praying the Lord’s Prayer is a way of seeing God, the world and myself in a way that is both profound and revolutionary."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "14",
+          "header": "Developing a person, intimate relationship with Jesus Christ is essential to a healthy Christian life. What do you think?",
+          "items": [
+            {
+              "item": "Having a personal relationship with Christ has always sounded so foreign to me. I’m not sure what it means."
+            },
+            {
+              "item": "I know what it means to have a personal relationship with Jesus and I want to learn about how I can strengthen that relationship."
+            },
+            {
+              "item": "I consider Jesus a close personal friend and that impacts every moment of my day."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        },
+        {
+          "title": "15",
+          "header": "Evangelization is everyone’s responsibility, even if you are not sure what it means. So tell us…",
+          "items": [
+            {
+              "item": "I have heard the term evangelization but never really thought about what it means or its impact on my life."
+            },
+            {
+              "item": "I know what it means to evangelize and am confident I understand its impact on my life."
+            },
+            {
+              "item": "My friends always come to me with questions about being Catholic because they know I have studies my faith and am willing to share my faith with others."
+            },
+            {
+              "item": "None of these choices apply to me."
+            }
+          ]
+        }
+      ]
+    },
+    "ministry_knowledge": {
+      "title": "Ministry Knowledge and Skills",
+      "header": "Ministry Knowledge and Skills",
+      "catechist_knowledge": [
+        {
+          "title": "1",
+          "header": "Understanding the psychological development of the age-group I serve is critical to effective ministry. What would help me most is:",
+          "items": [
+            {
+              "item": "Who are young people (gen z specifics)?"
+            },
+            {
+              "item": "Understanding how adolescents mature"
+            },
+            {
+              "item": "Understanding issues young people face"
+            },
+            {
+              "item": "Developing a safe and comfortable learning environment"
+            }
+          ]
+        },
+        {
+          "title": "2",
+          "header": "While the psychological development of those I serve is important, so too is the faith development. What would help me most is:",
+          "items": [
+            {
+              "item": "How children learn"
+            },
+            {
+              "item": "Building community among the learners"
+            },
+            {
+              "item": "Faith development of children"
+            },
+            {
+              "item": "Faith development of younger adolescents"
+            },
+            {
+              "item": "Faith development of older adolescents"
+            },
+            {
+              "item": "Faith development of adults"
+            },
+            {
+              "item": "Appropriate boundaries"
+            }
+          ]
+        },
+        {
+          "title": "3",
+          "header": "Learning Styles and differentiated instruction may sound like complicated terms, but effective catechists understand that young people learn in different ways and a variety of skills can be required at any time. What would help me most is:",
+          "items": [
+            {
+              "item": "Concept of learning styles and differentiated instruction"
+            },
+            {
+              "item": "Impact of learning styles and differentiated instruction"
+            },
+            {
+              "item": "Diverse learning processes and methods"
+            },
+            {
+              "item": "Designing a learning plan"
+            },
+            {
+              "item": "Using digital technology as a teaching tool"
+            }
+          ]
+        },
+        {
+          "title": "4",
+          "header": "Communicating effectively can make a big the difference when trying to share the richness of our faith with others. What would help me most is:",
+          "items": [
+            {
+              "item": "Facilitating small group activities and discussion"
+            },
+            {
+              "item": "Mastering listening skills"
+            },
+            {
+              "item": "Preparing young people for Reconciliation"
+            },
+            {
+              "item": "Facilitating experiential learning activities"
+            },
+            {
+              "item": "Helping others share their stories"
+            },
+            {
+              "item": "Preparing young people for First Communion"
+            },
+            {
+              "item": "Tips for classroom management"
+            },
+            {
+              "item": "Utilizing digital technology and media in learning programs"
+            },
+            {
+              "item": "Preparing young people for Confirmation"
+            }
+          ]
+        },
+        {
+          "title": "5",
+          "header": "A solid prayer life is central to the formation of a strong, healthy relationship with Jesus. Prayer can also be a powerful catechetical tool to connect those we teach with the Master Teacher. What would help me most is:",
+          "items": [
+            {
+              "item": "Developing and leading prayer services"
+            },
+            {
+              "item": "Forms and styles of communal prayer in the Church"
+            },
+            {
+              "item": "Helping young people pray every day"
+            },
+            {
+              "item": "Making time to prayer"
+            }
+          ]
+        }
+      ],
+      "lector_knowledge": [
+        {
+          "title": "1",
+          "header": "I am a Lector at my parish or school. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Why we read what we read when we read it"
+            }
+          ]
+        },
+        {
+          "title": "2",
+          "header": "As a Lector, I read pretty well, but I would like to know more about the readings. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the readings of year A in detail"
+            },
+            {
+              "item": "Understanding the readings of year B in detail"
+            },
+            {
+              "item": "Understanding the readings of year C in detail"
+            },
+            {
+              "item": "Lenten Readings in detail"
+            },
+            {
+              "item": "Advent Readings in detail"
+            }
+          ]
+        },
+        {
+          "title": "3",
+          "header": "I love to read at Mass but sometimes I stumble with the readings. What would help me most is:",
+          "items": [
+            {
+              "item": "Why we read what we read when we read it"
+            },
+            {
+              "item": "How to proclaim the Word well"
+            },
+            {
+              "item": "Practicing pronunciations"
+            }
+          ]
+        },
+        {
+          "title": "4",
+          "header": "I understand that Liturgy is the work of the people but why does it have to be so hard sometimes. What would really help me is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Getting the most out of Mass"
+            }
+          ]
+        },
+        {
+          "title": "5",
+          "header": "As a lector, I know that my role goes beyond just proclaiming the Word. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Living my faith beyond Sundays"
+            },
+            {
+              "item": "A very brief intro to every book in the Bible"
+            }
+          ]
+        }
+      ],
+      "special_knowledge": [
+        {
+          "title": "1",
+          "header": "I serve as a Special Minister of Holy Communion in my parish or school. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Serving with Joy"
+            },
+            {
+              "item": "Why is this ministry extraordinary?"
+            },
+            {
+              "item": "History of this important role"
+            }
+          ]
+        },
+        {
+          "title": "2",
+          "header": "I have a pretty good grasp on the theology of Eucharist, but what would really help me most is:",
+          "items": [
+            {
+              "item": "Practical overview of serving as a SMCH"
+            },
+            {
+              "item": "Distributing the Eucharist outside liturgy"
+            }
+          ]
+        },
+        {
+          "title": "3",
+          "header": "Sometimes I visit the sick. What would help me most is:",
+          "items": [
+            {
+              "item": "Distributing the Eucharist outside liturgy"
+            },
+            {
+              "item": "Teaching the Eucharist to non-believers"
+            }
+          ]
+        },
+        {
+          "title": "4",
+          "header": "As a Special Minister of Holy Communion, I know that my role goes beyond just proclaiming the Word. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Living my faith beyond Sundays"
+            },
+            {
+              "item": "A very brief intro to every book in the Bible"
+            }
+          ]
+        },
+        {
+          "title": "5",
+          "header": "I understand that Liturgy is the work of the people but why does it have to be so hard sometimes. What would really help me is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Getting the most out of Mass"
+            }
+          ]
+        }
+      ],
+      "musician_knowledge": [
+        {
+          "title": "1",
+          "header": "I serve as a musician (cantor, choir director, or just plain singing) at my parish. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "The role of liturgical music"
+            },
+            {
+              "item": "Music as prayer"
+            },
+            {
+              "item": "Planning liturgies well"
+            },
+            {
+              "item": "Convincing the faith community to sing"
+            }
+          ]
+        },
+        {
+          "title": "2",
+          "header": "I certainly never do this, but some cantors act like they are giving a concert. Still, what would help me most is:",
+          "items": [
+            {
+              "item": "Music as prayer"
+            },
+            {
+              "item": "Praying the Psalms"
+            },
+            {
+              "item": "The important role of the Cantor"
+            }
+          ]
+        },
+        {
+          "title": "3",
+          "header": "I know music can enhance the celebration of Mass, but sometimes music is all I think about. What would really help me is:",
+          "items": [
+            {
+              "item": "The role of liturgical music"
+            },
+            {
+              "item": "Music as prayer"
+            },
+            {
+              "item": "Great Advent music"
+            },
+            {
+              "item": "Great Lenten music"
+            },
+            {
+              "item": "Planning liturgies well"
+            }
+          ]
+        },
+        {
+          "title": "4",
+          "header": "As a musician, I know that my role goes beyond just proclaiming the Word. What would help me most is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Living my faith beyond Sundays"
+            },
+            {
+              "item": "A very brief intro to every book in the Bible"
+            }
+          ]
+        },
+        {
+          "title": "5",
+          "header": "I understand that Liturgy is the work of the people but why does it have to be so hard sometimes. What would really help me is:",
+          "items": [
+            {
+              "item": "Understanding the liturgical space"
+            },
+            {
+              "item": "Getting the most out of Mass"
+            }
+          ]
+        }
+      ],
+      "dre_youth_knowledge": [
+        {
+          "title": "1",
+          "header": "Collaborative leadership is tough, especially in environments that foster individual accomplishments instead of shared responsibilities. What would help me most is:",
+          "items": [
+            {
+              "item": "Recruiting and retaining catechists/volunteers"
+            },
+            {
+              "item": "Building relationships with the pastor"
+            },
+            {
+              "item": "Facilitating effective parent meetings"
+            },
+            {
+              "item": "Situational leadership and effective listening skills"
+            },
+            {
+              "item": "Using digital technology to enhance our ministry"
+            }
+          ]
+        },
+        {
+          "title": "2",
+          "header": "Coordinating ministry in a parish involves multiple people and multiples tasks. Doing it well can be hard, but it’s my job. What would help me most is:",
+          "items": [
+            {
+              "item": "Evaluating your program: from registration to years’ end"
+            },
+            {
+              "item": "How to create budgets that can get approved"
+            },
+            {
+              "item": "Legal issues that ministry leaders may face and how to deal with them"
+            },
+            {
+              "item": "Managing my time well"
+            },
+            {
+              "item": "Practical tips for working smarter, not harder"
+            }
+          ]
+        },
+        {
+          "title": "3",
+          "header": "One of the toughest jobs of a ministry leader, other than recruiting catechists and volunteers, has to be finding the right tool for our formation. What would help me most is:",
+          "items": [
+            {
+              "item": "Sacramental prep that inspires"
+            },
+            {
+              "item": "Keeping catechists engaged"
+            },
+            {
+              "item": "Choosing texts and resources"
+            },
+            {
+              "item": "Effective Adolescent Catechesis"
+            }
+          ]
+        },
+        {
+          "title": "4",
+          "header": "Pastoral care refers to how we care for those we are called to serve. Being unprepared for a crisis can leave ministry leaders feeling inadequate and insecure. What would help me most is:",
+          "items": [
+            {
+              "item": "How to offer counsel without a counseling degree"
+            },
+            {
+              "item": "Special needs ministry"
+            },
+            {
+              "item": "Managing a crisis"
+            },
+            {
+              "item": "Creating a safe environment"
+            },
+            {
+              "item": "Taking care of my own soul"
+            },
+            {
+              "item": "Dealing with the death of a young person"
+            }
+          ]
+        },
+        {
+          "title": "5",
+          "header": "Pastoral care refers to how we care for those we are called to serve. Being unprepared for a crisis can leave ministry leaders feeling inadequate and insecure. What would help me most is:",
+          "items": [
+            {
+              "item": "How to offer counsel without a counseling degree"
+            },
+            {
+              "item": "Special needs ministry"
+            },
+            {
+              "item": "Managing a crisis"
+            },
+            {
+              "item": "Creating a safe environment"
+            },
+            {
+              "item": "Taking care of my own soul"
+            },
+            {
+              "item": "Dealing with the death of a young person"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
