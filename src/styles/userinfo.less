@@ -1,0 +1,22 @@
+﻿// =============================================================================
+// User Info
+// =============================================================================
+
+@import "../../node_modules/bootstrap/less/forms.less";
+
+.userinfo {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    input[type="text"], input[type="email"] {
+         &:extend(.form-control);
+         margin: 10px;
+    }
+    #parish_list {
+        margin: 10px;
+    }
+
+    label {
+        color: white;
+    }
+}

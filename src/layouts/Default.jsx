@@ -5,15 +5,15 @@
 'use strict';
 
 var React = require('react');
-var {Link} = require('react-router');
 var Navbar = require('../components/Navbar.jsx');
+var Home = require('../pages/Home.jsx');
 
 var DefaultLayout = React.createClass({
   render() {
     return (
       <div>
         <Navbar />
-        <this.props.activeRouteHandler />
+        <Home />
         <div className="navbar-footer">
           <div className="container">
             <p className="text-muted">
