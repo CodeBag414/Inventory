@@ -52,6 +52,7 @@
     "minimist": "^1.2.0",
     "protractor": "^5.0.0",
     "psi": "^2.0.4",
+    "react-notification-system": "^0.2.11",
     "run-sequence": "^1.2.2",
     "url-loader": "^0.5.7",
     "webpack": "^1.14.0",

@@ -5,6 +5,7 @@
 'use strict';
 
 var React = require('react');
+var NotificationSystem = require('react-notification-system');
 
 var index = 0;
 var answers = {
@@ -39,7 +40,20 @@ var Card = React.createClass({
     fadingDone () {
         this.setState({ fade: false });
     },
+    selectedCount(answerlist) {
+        var res = 0;
+        for (var i = 0; i < answerlist.length; i++)
+        {
+            if (answerlist[i] != -1)
+                res++;
+        }
+        return res;
+    },
     onNext() {
+        if (this.selectedCount(this.state.selectedItems) == 0) {
+            this.props.notify("Please select one of the following items",'error');
+            return;
+        }
         this.setState({ fade: true });
         this.setState({ selectedItems: [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1] });
         this.setState({ cardType: "radio" });
@@ -50,6 +64,7 @@ var Card = React.createClass({
             if (answers.role === -1) {
                 answers.role = this.state.selectedItems[0];
                 answers.theological_answers.pop();
+                this.props.notify("Please select one of anwsers for each theological-knowledge",'warning');
             }
             this.setState({ info: m_info[index++] });
         } else {
@@ -85,6 +100,7 @@ var Card = React.createClass({
                         return;
                 }
                 if (index == 15+1) {
+                    this.props.notify("Please select multi-anwsers for each theological-knowledge",'warning');
                     answers.theological_answers.push(this.state.selectedItems[0]);
                     return;
                 }
